@@ -1,5 +1,6 @@
 # Gericht Modern_ui_ux_restaurant
 
+Link - Click [here](https://gericht-restaurant-modern-ui-project.netlify.app/) for directing to our project domain.
 ## Libraries:
     [React-icons](https://react-icons.github.io/react-icons/)
 
