@@ -10,3 +10,4 @@
   - the div which will be overlay on another must be positioned:
     - position: absolute
     - inset: 0
+- using [nth-child](https://www.techonthenet.com/css/selectors/nth_child.php) in css. we used one in the footer container.
