@@ -1,6 +1,31 @@
 # Gericht Modern_ui_ux_restaurant
 
-- Install npm react-icons
+## Libraries:
+    [React-icons](https://react-icons.github.io/react-icons/)
+
+## Project Structure:
+  #### Components:
+    1 - Navbar
+    2 - Sub Heading
+    3 - Menu Item
+    4 - Footer
+  #### Assets:
+    Only pictures and video have been kept here
+  #### Constants:
+    1 - Data - all data have been objectified here.  
+    2 - Images: All images and videos from assets have been linked here in an object.
+  #### Containers:
+  Containers are the real layout of the project
+    1 - About Us: Descripton of the restaurant owners and the contact info.
+    2 - Chef: Chef intro
+    3 - Find Us: where you can find us - the location.
+    4 - Gallery: All images gallery container.
+    5 - Header:
+    6 - Intro:
+    7 - Laurels: Acheivements.
+    8 - Menu: the menu and prices.
+
+  
 - use this web for [educational purpose- BEM](https://sparkbox.com/foundry/bem_by_example)
 - Just as a reminder some of the CSS classes are defined in app.js and index.js
 
