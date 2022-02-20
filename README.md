@@ -5,7 +5,8 @@ Link - Click [here](https://gericht-restaurant-modern-ui-project.netlify.app/) f
     [React-icons](https://react-icons.github.io/react-icons/)
 
 ## Project Structure:
-  #### Components:
+  #### Components: 
+  This is for all small components
     1 - Navbar
     2 - Sub Heading
     3 - Menu Item
@@ -13,10 +14,11 @@ Link - Click [here](https://gericht-restaurant-modern-ui-project.netlify.app/) f
   #### Assets:
     Only pictures and video have been kept here
   #### Constants:
+  This is going to be the imports of all of the files we are constantly use.
     1 - Data - all data have been objectified here.  
     2 - Images: All images and videos from assets have been linked here in an object.
   #### Containers:
-  Containers are the real layout of the project
+  Containers are the real layout of the project, mean these are for bigger components, means components containing multiple components.
     1 - About Us: Descripton of the restaurant owners and the contact info.
     2 - Chef: Chef intro
     3 - Find Us: where you can find us - the location.
