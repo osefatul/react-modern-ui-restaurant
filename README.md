@@ -1,6 +1,9 @@
 # Gericht Modern_ui_ux_restaurant
 
 Link - Click [here](https://gericht-restaurant-modern-ui-project.netlify.app/) for directing to our project domain.
+
+### Intro
+This is a modern web application made in react. we have used advanced and production ready file structure along with some great ways of writing complex css.
 ## Libraries:
     [React-icons](https://react-icons.github.io/react-icons/)
 
